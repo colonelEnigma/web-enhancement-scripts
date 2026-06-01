@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Instagram Reels True Fullscreen Controls
 // @namespace    https://www.instagram.com/
-// @version      5.2
+// @version      5.3
 // @author       colonelEnigma
 // @description  Custom Reel controls with true fullscreen view using captureStream
 // @license      MIT
