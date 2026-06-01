@@ -5,13 +5,12 @@
 // @author       colonelEnigma
 // @description  Custom Reel controls with true fullscreen view using captureStream
 // @license      MIT
-// @match        https://www.instagram.com/reels/*
-// @match        https://www.instagram.com/reel/*
-// @match        https://www.instagram.com/p/*
+// @match        https://www.instagram.com/*
 // @downloadURL  https://raw.githubusercontent.com/colonelEnigma/web-enhancement-scripts/main/main/instagram-fullscreen-controls.user.js
 // @updateURL    https://raw.githubusercontent.com/colonelEnigma/web-enhancement-scripts/main/main/instagram-fullscreen-controls.user.js
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
   'use strict';
