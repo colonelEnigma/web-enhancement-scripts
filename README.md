@@ -7,7 +7,7 @@ A repository containing useful, lightweight browser userscripts designed to enha
 
 | Script Name | Target Website | Description | Quick Install |
 | :--- | :--- | :--- | :--- |
-| **Instagram 3 Popup Reel Carousel** | `instagram.com` | Opens 3 Instagram Reel popups side-by-side as a continuous carousel. | [Install](https://github.com) |
+| **Instagram Fullscreen Controls** | `instagram.com` | Custom Reel controls with true fullscreen view using captureStream. | [Install](http://github.com/colonelEnigma/web-enhancement-scripts/blob/main/main/instagram-fullscreen-controls.user.js) |
 | *Add your next script here* | *Website URL* | *Short explanation of what it does.* | [Install](URL_HERE) |
 
 ## 🛠️ How to Install
