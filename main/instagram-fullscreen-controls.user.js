@@ -8,8 +8,8 @@
 // @match        https://www.instagram.com/reels/*
 // @match        https://www.instagram.com/reel/*
 // @match        https://www.instagram.com/p/*
-// @downloadURL  http://github.com/colonelEnigma/web-enhancement-scripts/blob/main/main/instagram-fullscreen-controls.user.js
-// @updateURL    http://github.com/colonelEnigma/web-enhancement-scripts/blob/main/main/instagram-fullscreen-controls.user.js
+// @downloadURL  https://raw.githubusercontent.com/colonelEnigma/web-enhancement-scripts/main/main/instagram-fullscreen-controls.user.js
+// @updateURL    https://raw.githubusercontent.com/colonelEnigma/web-enhancement-scripts/main/main/instagram-fullscreen-controls.user.js
 // @grant        none
 // ==/UserScript==
 
