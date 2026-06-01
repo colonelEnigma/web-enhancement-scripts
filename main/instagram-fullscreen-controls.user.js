@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PRV_Instagram Reels True Fullscreen Controls
+// @name         Instagram Reels True Fullscreen Controls
 // @namespace    https://www.instagram.com/
 // @version      5.0
 // @author       colonelEnigma
